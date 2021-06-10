@@ -1,0 +1,24 @@
+_repo: Itamerenmaakuntien-venalaistyttamisyritys-vuosina-1886-1906_65409
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maanpakolainen
+    gutenberg_agent_id: '53322'
+    url: http://www.gutenberg.org/2009/agents/53322
+description: ''
+gutenberg_issued: '2021-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65409'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Self-determination, National -- Baltic States'
+- !lcsh 'Russia -- Foreign relations -- Baltic States'
+- !lcc 'DK'
+- !lcsh 'Baltic States -- Foreign relations -- Russia'
+- GITenberg
+title: Itämerenmaakuntien venäläistyttämisyritys vuosina 1886-1906
+url: http://www.gutenberg.org/ebooks/65409
